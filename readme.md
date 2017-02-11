@@ -1,0 +1,3 @@
+# socialinfographic
+
+![](img/socialinfographic.jpg)
